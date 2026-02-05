@@ -77,10 +77,10 @@
     "react-icons": "^5.0.1",
     "react-intersection-observer": "^9.5.3",
     "tailwind-merge": "^2.2.0",
-    "three": "^0.160.0",
-    "@types/three": "^0.160.x"
+    "three": "^0.160.0"
   },
   "devDependencies": {
+    "@types/three": "^0.160.x",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
